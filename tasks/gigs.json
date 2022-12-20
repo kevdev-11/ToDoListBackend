@@ -1,0 +1,5 @@
+[
+{"id":1,"title":"brand","description":"create a brand concept","iscomplete":true},
+{"title":"objectives","description":"create a to do list about objectives of the brand","iscomplete":false,"id":3},
+{"title":"brainstorming","description":"Promote a system through this metodology to had a better panorama about tasks to do","iscomplete":true,"id":4}
+]
